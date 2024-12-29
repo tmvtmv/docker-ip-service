@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "74QUFWbltZ0eXqhDOOdFWdm/xNIXjJ0Si63MW1qSDhQ=",
+  "Source": "DockerIpService",
+  "BasePath": "_content/DockerIpService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
